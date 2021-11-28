@@ -6,7 +6,7 @@
 
 
 <h1 align="center"> 
-  <img alt="readme" title="Readme" src="./github/quieres2.png" /> 
+  <img src="./quieres2.png" /> 
 </h1>
 
 
